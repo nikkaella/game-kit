@@ -4,11 +4,9 @@ body {
 }
 
 h1 {
-  font-size: 5rem;
-  color: #DBEDF3;
+  font-size: 3rem;
+  color: #d3dee2;
   font-family: 'Press Start 2P', cursive;
-  text-shadow: 3px 0 #35363A;
-
 }
 
 footer {
